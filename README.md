@@ -77,14 +77,8 @@ I want to learn English. Now I watch English youtube channels, use duolinggo app
 
 ## 🧭 Github Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img  width=396 src="https://github-readme-stats.vercel.app/api?username=yogaxv&theme=dark&show_icons=true&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub"/>
-  </a>
+<img  width=396 src="https://github-readme-stats.vercel.app/api?username=yogaxv&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img  width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=yogaxv&theme=vue-dark&hide_border=true"/>
-  </a>
+<img  width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=yogaxv&theme=vue-dark&hide_border=true"/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img  width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaxv&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-  </a>
+<img  width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaxv&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>

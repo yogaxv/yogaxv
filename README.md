@@ -10,7 +10,7 @@ I'm a ✨ Front-end, Back-end Developer ✨  always willing to try multiple plat
 
 ## ✉️ Contact
 
-[E-mail](mailto:yoga.xv@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yogaxv) | [Instagram](https://www.instagram.com/sudip._.mondal/) | [Twitter](https://twitter.com/yogaxv) | [GitHub](https://github.com/yogaxv)
+[E-mail](mailto:yoga.xv@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yogaxv) | [Twitter](https://twitter.com/yogaxv) | [GitHub](https://github.com/yogaxv)
 
 ## ✨ Goals of 2023
 
